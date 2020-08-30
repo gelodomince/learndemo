@@ -9,6 +9,6 @@ class Factorial{
   int i,fact=1;  
   int number=6;    
   fact = factorial(number);   
-  System.out.println("Factorial off "+number+" is: "+fact);    
+  System.out.println("Factorial offf "+number+" is: "+fact);    
  }  
 }  
